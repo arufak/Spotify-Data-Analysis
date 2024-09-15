@@ -24,7 +24,3 @@ The project aims to answer questions about the relationship between the characte
 - **Mood and Energy**: Songs with higher energy tend to have lower valence scores, indicating that high-energy songs may convey more intense emotions.
 - **Danceability and Popularity**: Highly danceable songs are more likely to be popular, as danceability seems to be a strong factor in creating chart-topping hits.
 
-## 🚀 How to Run the Project
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/arufak/spotify-data-analysis.git
